@@ -1,8 +1,8 @@
 my:
-	name: khaled
-	list: microservirce, monolitic
-	values: 1, 2, 3
+ name: khaled
+ list: microservirce, monolitic
+ values: 1, 2, 3
 db:
-	connection: coonection-string
-	hots: localhost
-	port: 3600
+ connection: coonection-string
+ hots: localhost
+ port: 3600
