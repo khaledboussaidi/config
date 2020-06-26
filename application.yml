@@ -3,6 +3,6 @@ my:
  list: microservirce, monolitic
  values: 1, 2, 3
 db:
- connection: coonection-string
+ connection: connection-string
  hots: localhost
  port: 3600
