@@ -1,6 +1,7 @@
 my:
 	name: khaled
 	list: microservirce, monolitic
+	values: 1, 2, 3
 db:
 	connection: coonection-string
 	hots: localhost
