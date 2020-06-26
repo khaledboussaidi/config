@@ -1,0 +1,7 @@
+my:
+	name: khaled
+	list: microservirce, monolitic
+db:
+	connection: coonection-string
+	hots: localhost
+	port: 3600
